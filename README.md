@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my GitHub course lecture repository. These lecture materials, designed with a focus on engaging pedagogy and thematic clarity, serve as a comprehensive resource for educators and students. The lectures are organized by course number and semester, and they complement the corresponding syllabi available in the [syllabi repository](https://github.com/dadams-AU/lectures). All materials are formatted in LaTeX or Markdown, ensuring consistency and ease of use. 
+Welcome to my GitHub course lecture repository. These lecture materials, designed with a focus on engaging pedagogy and thematic clarity, serve as a comprehensive resource for educators and students. The lectures are organized by course number and semester, and they complement the corresponding syllabi available in the [syllabi repository](https://syllabi.dadams.io/). All materials are formatted in LaTeX or Markdown, ensuring consistency and ease of use. 
 
 ## Lectures
 
@@ -19,12 +19,6 @@ Welcome to my GitHub course lecture repository. These lecture materials, designe
 - **POSC 509: Foundations of Public Administration**  
   Explore comprehensive lectures on the principles and practices that define the field of public administration.
 
-- **POSC 521: Public Administration Theory: MPA Capstone**  
-  Engage with advanced theoretical perspectives in public administration, synthesizing key concepts and frameworks.
-
-- **POSC 588: Collaborative Governance**  
-  Learn about collaborative strategies in governance, emphasizing cooperation and collective decision-making in policy-making processes.
-
 ## Using the Repository
 
 ### Navigating the Repository
@@ -33,7 +27,7 @@ The repository is organized by course number and semester. Each course folder co
 
 ### Customizing the Lectures
 
-To create or modify lecture materials, use the `lecture.md` files in each course folder. These files are well-commented to assist you in understanding and adjusting the LaTeX code. The `lecture.pdf` files serve as a reference for the final output.
+To create or modify lecture materials, use the `lecture.md` or `lecture.tex` files in each course folder. These files are well-commented to assist you in understanding and adjusting the LaTeX code. The `lecture.pdf` files serve as a reference for the final output.
 
 ## Updates and Version Control
 
