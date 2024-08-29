@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my GitHub course lecture repository. These lecture materials, designed with a focus on engaging pedagogy and thematic clarity, serve as a comprehensive resource for educators and students. The lectures are organized by course number and semester, and they complement the corresponding syllabi available in the [syllabi repository](link to syllabi repository). All materials are formatted in LaTeX or Markdown, ensuring consistency and ease of use. 
+Welcome to my GitHub course lecture repository. These lecture materials, designed with a focus on engaging pedagogy and thematic clarity, serve as a comprehensive resource for educators and students. The lectures are organized by course number and semester, and they complement the corresponding syllabi available in the [syllabi repository](https://github.com/dadams-AU/lectures). All materials are formatted in LaTeX or Markdown, ensuring consistency and ease of use. 
 
 ## Lectures
 
