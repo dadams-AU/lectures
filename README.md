@@ -8,7 +8,7 @@ Welcome to my GitHub course lecture repository. These lecture materials, designe
 
 ### Undergraduate Courses
 
-- **POSC 315: Introduction to Public Policy**  
+- [**POSC 315: Introduction to Public Policy**](https://github.com/dadams-AU/lectures/tree/main/posc_315/2024_fall)  
   Dive into foundational public policy concepts, exploring the intersection of policy-making, government efficiency, and public service.
 
 - **POSC 320: Introduction to Public Administration**  
